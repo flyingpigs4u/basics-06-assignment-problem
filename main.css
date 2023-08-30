@@ -1,0 +1,30 @@
+
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    color: yellowgreen;
+    font-family: sans-serif;
+}
+
+code {
+    color: red;
+    font-family: monospace;
+}
+
+.second-code {
+    color:blueviolet;
+
+}
+
+ol > li {
+    background: black;
+    color: white;
+}
+
+li + li {
+    background: black;
+    color: white;
+}
+
